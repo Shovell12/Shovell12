@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **gustavo.mosquera.a@uni.pe**
 
+- ⚡ Fun fact **I like to draw**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/C Shovell12#0282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="C Shovell12#0282" height="30" width="40" /></a>
