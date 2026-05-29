@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying on Universidad Nacional de Ingeniería. I like  to draw
+# About Me:
+ I’m currently studying on Universidad Nacional de Ingeniería. I like  to draw
 
 
 
