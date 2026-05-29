@@ -1,5 +1,5 @@
 # About Me:
- I’m currently studying on Universidad Nacional de Ingeniería. I like  to draw
+ I’m currently studying software engineering on Universidad Nacional de Ingeniería. I like  to draw
 
 
 
